@@ -2,7 +2,7 @@
 
 We love the `shell`. [bash](#) or [zsh](#) or [fish](#) or [powershell](#) or name
 your own. But the `shell` forgets, especially when we are across multiple
-systems. It would be incredible if the `shell` could remember things for us,
+systems. It would be incredible if the `shell` could *safely* remember things for us,
 across systems. So let us extend the `shell` to remember things for us.
 
 ## Problem
@@ -49,3 +49,7 @@ The reviewer should be able to run your application using
 3. Create a pull request from your `dev` branch to your `main` branch
 4. Invite [@abhisek](https://github.com/abhisek) to your private fork repository
 5. Add `@abhisek` as a reviewer to the pull request
+
+## Questions?
+
+Create an [issue](https://github.com/safedep-hiring/swe-intern-problem-1/issues)
